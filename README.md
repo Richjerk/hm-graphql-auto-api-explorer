@@ -105,4 +105,4 @@ See more in [CONTRIBUTING.md](https://github.com/highmobility/hm-graphql-auto-ap
 
 ## License
 
-This repository is using MIT license. See more in [LICENSE](https://github.com/highmobility/hm-graphql-auto-api-explorer/tree/main/LICENSE)
+This repository is using MIT license. See more in [LICENSE](https://github.com/highmobility/hm-graphql
